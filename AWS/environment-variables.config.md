@@ -1,3 +1,7 @@
+# environment-variables.config
+
+## Sample 
+````yaml
 # You must place this file in .ebextensions
 # And must have a .config file name
 # So the file is at  .ebextensions/environment-variables.config
@@ -16,3 +20,4 @@ option_settings:
 #     value: option value
 
 # See: https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/ebextensions-optionsettings.html
+````
