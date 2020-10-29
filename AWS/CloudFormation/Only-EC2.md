@@ -1,5 +1,8 @@
 # Only-EC2
 
+## Doc
+* [AWS::EC2::Instance](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-ec2-instance.html#aws-properties-ec2-instance--examples)
+
 ## Switch (optional)
 1. SecurityGroupIds [List String]
 ````yaml
