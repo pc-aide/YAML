@@ -10,7 +10,6 @@
 
 ## SRC
 ````yaml
----
 Resources:
   MyInstance:
     Type: AWS::EC2::Instance
