@@ -19,7 +19,6 @@ KeyName: Ec2-Ama-ca-central
 
 ## SRC
 ````yaml
----
 Resources:
   EC2:
     Type: AWS::EC2::Instance
