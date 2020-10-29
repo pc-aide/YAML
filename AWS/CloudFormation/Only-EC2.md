@@ -1,5 +1,14 @@
 # Only-EC2
 
+## Switch (optional)
+1. SecurityGroupIds [List String]
+````yaml
+SecurityGroupIds: 
+- sg-0128a5747c0dbf703
+````
+
+---
+
 ## SRC
 ````yaml
 ---
