@@ -1,4 +1,4 @@
-# Only-EC2
+# 01 - Only-EC2
 
 ## Doc
 * [AWS::EC2::Instance](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-ec2-instance.html#aws-properties-ec2-instance--examples)
