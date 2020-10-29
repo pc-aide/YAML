@@ -3,7 +3,7 @@
 ## Doc
 
 ## Note
-* By default - no order so can put the `parameter` to the top or bottom
+* By default - no order, so can put the `parameter` to the top or bottom
 
 ## Siwtchs (optional)
 
