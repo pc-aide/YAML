@@ -9,6 +9,11 @@
 SecurityGroupIds: 
 - sg-0128a5747c0dbf703
 ````
+2. KeyName
+````yaml
+KeyName: Ec2-Ama-ca-central
+````
+   * can have an error (i.g key don't exist even you can see it in console & used !)
 
 ---
 
