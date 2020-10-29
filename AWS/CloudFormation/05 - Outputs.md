@@ -62,3 +62,39 @@ Outputs:
 * No WebSRV so nothing :
 
 [<img src="https://i.imgur.com/9HdQCsd.png">](https://i.imgur.com/9HdQCsd.png)
+
+---
+
+### 02 - CreateBucket + URLOfBucket (as O/P)
+````yaml
+Description: Template will create an S3 bucket & O/P as URL of this Bucket
+Resources:
+  # Bucket
+  DemoCFBucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      # BuckName only lower case
+      BucketName: demo-01-cf-output-urlbucket
+
+# O/P - stack template
+Outputs:
+  WebsiteURL:
+    Value: !GetAtt [DemoCFBucket, WebsiteURL]
+    Description: URL of my Bucket
+````
+
+#### CloudFormation
+* OutPuts
+    * http://demo-01-cf-output-urlbucket.s3-website.ca-central-1.amazonaws.com
+    
+[<img src="https://i.imgur.com/H8Q7Nff.png">](https://i.imgur.com/H8Q7Nff.png)
+
+#### Bucket
+* Browser
+    * nothing in there so nothing (404)
+
+[<img src="https://i.imgur.com/MAfF5Sd.png">](https://i.imgur.com/MAfF5Sd.png)
+
+* if a delete this stack-template, so this buck will be gone:
+
+[<img src="https://i.imgur.com/Fu5cWWZ.png">](https://i.imgur.com/Fu5cWWZ.png)
