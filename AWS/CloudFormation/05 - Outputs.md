@@ -66,6 +66,7 @@ Outputs:
 ---
 
 ### 02 - CreateBucket + URLOfBucket (as O/P)
+* Use Case: static WebSite  on a Bucket
 ````yaml
 Description: Template will create an S3 bucket & O/P as URL of this Bucket
 Resources:
