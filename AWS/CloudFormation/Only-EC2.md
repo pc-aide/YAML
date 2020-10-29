@@ -21,7 +21,8 @@ Resources:
 * SSE-S3
     * AES-256
     
-[<img src="https://i.imgur.com/a3Jr7fo.png">](https://i.imgur.com/a3Jr7fo.png)
+[<img src="https://i.imgur.com/93U1s7W.png">](https://i.imgur.com/93U1s7W.png)
+
 
 ### EC2
 [<img src="https://i.imgur.com/ExVVnQJ.png">](https://i.imgur.com/ExVVnQJ.png)
