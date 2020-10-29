@@ -40,3 +40,4 @@ Resources:
 * SG: 
 
 [<img src="https://i.imgur.com/TCsO77X.png">](https://i.imgur.com/TCsO77X.png)
+[<img src="https://i.imgur.com/RzkzLTL.png">](https://i.imgur.com/RzkzLTL.png)
