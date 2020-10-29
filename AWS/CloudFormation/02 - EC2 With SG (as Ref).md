@@ -1,4 +1,4 @@
-# EC2 With SG (as Ref)
+# 02 - EC2 With SG (as Ref)
 
 ## Doc
 * [AWS::EC2::SecurityGroup](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-ec2-security-group.html#aws-properties-ec2-security-group--examples)
