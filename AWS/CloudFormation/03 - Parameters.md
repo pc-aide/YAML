@@ -1,4 +1,4 @@
-# 03 - Parameter
+# 03 - Parameters
 
 ## Doc
 
@@ -9,7 +9,8 @@
 
 ---
 
-## SRC
+## Examples
+### 01 - SGDecription
 ````yaml
 Parameters:
   SecurityGroupDescription:
@@ -37,3 +38,5 @@ Resources:
         IpProtocol: tcp
         ToPort: 22
 ````
+
+---
