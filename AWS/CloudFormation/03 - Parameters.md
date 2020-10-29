@@ -11,7 +11,6 @@
 
 ## SRC
 ````yaml
----
 Parameters:
   SecurityGroupDescription:
     Description: Security Group Description
