@@ -1,5 +1,8 @@
 # template yaml
 
+## Doc
+* [Template anatomy](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/template-anatomy.html)
+
 ## SRC
 ````yaml
 ---
